@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <section class="container">
-    <h1>Post Index</h1>
+    <h1>Projects</h1>
     <table class="table table-hover">
         <thead>
             <tr class="text-center">
